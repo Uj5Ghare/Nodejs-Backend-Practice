@@ -1,0 +1,16 @@
+{
+  "name": "todos-project",
+  "version": "1.0.0",
+  "description": "A sample todos project for learning backend development.",
+  "license": "ISC",
+  "author": "Ujwal Pachghare <ujwal5ghare@gmail.com>",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node --watch main.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  }
+}
