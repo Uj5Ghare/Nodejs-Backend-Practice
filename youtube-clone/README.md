@@ -6,3 +6,5 @@
 `npm init -y`
 2. Installing Nodemon as dev-dependency
 `npm i -D nodemon`
+3. Installing Prettier for team colaboration
+`npm i -D prettier`
