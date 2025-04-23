@@ -1,12 +1,15 @@
+// require('dotenv').config({path: './env'}) Inconsistent code
 import dotenv from "dotenv"
-import mongoose  from "mongoose";
-import { DB_NAME } from "./constants";
-import express from "express";
+// import mongoose  from "mongoose";
+// import { DB_NAME } from "./constants";
+// import express from "express";
+import connectDB from "./db/index.js";
 
 dotenv.config({
     path: "./env"
 })
 
+connectDB()
 
 /*
 const app = express()
