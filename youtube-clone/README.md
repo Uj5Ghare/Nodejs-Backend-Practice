@@ -1,5 +1,6 @@
 # A YouTube Clone Backend Application
 
+[FLOW-CHART](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
 
 ## Setting Up Project
 1. Creating a package.json
